@@ -1,9 +1,10 @@
-package vwarreborn
+package vwar
 
 import (
-	"example/vwarreborn/rules"
 	"fmt"
 	"testing"
+
+	"github.com/roo10ium/vwar/rules"
 )
 
 func printField(game rules.GameState) {
