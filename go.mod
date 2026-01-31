@@ -1,4 +1,4 @@
-module example/vwarreborn
+module github.com/roo10ium/vwar
 
 go 1.24.6
 
